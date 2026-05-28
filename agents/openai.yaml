@@ -1,0 +1,4 @@
+interface:
+  display_name: "Spudex"
+  short_description: "Rigorous Codex mode for engineering work."
+  default_prompt: "Use Spudex mode for this task."
