@@ -53,9 +53,6 @@ https://github.com/cursor/plugins/tree/main/pstack
 Original post:
 
 https://x.com/poteto/status/2058975157503570132
-
-This repo was adapted from pstack at upstream commit `710e829b555d21d90dd3ebeabdf7c868d00dd1f0`.
-
 ## License
 
 MIT. See `LICENSE`.
